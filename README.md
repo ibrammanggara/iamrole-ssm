@@ -1,7 +1,8 @@
 # iamrole-ssm
 
 # Trust policy
-
+---
+```
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -15,8 +16,8 @@
         }
     ]
 }
-
-
+```
+---
 # Permissions policy summary:
 
 AmazonSSMManagedInstanceCore
